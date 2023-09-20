@@ -1,0 +1,10 @@
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.AssemblyReference.cache
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.frmTugasTiga1.resources
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\Tugas3.1\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
